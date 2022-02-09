@@ -74,4 +74,4 @@ To run the tests we use `pytest tests`. If you want a simple mock of the wandb b
 
 We use [circleci](https://circleci.com) and [appveyor](https://appveyor.com) for CI.
 
-YO
+YO!
